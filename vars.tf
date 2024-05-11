@@ -7,7 +7,7 @@ variable "ami_id" {
 variable "itype" {
   description = "variable for amazon linux 2 instance type"
   type        = string
-  default     = "t2.micro"
+  #default     = "t2.micro"
 }
 
 variable "az" {
