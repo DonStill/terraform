@@ -1,0 +1,1 @@
+itype = "t2.micro"
